@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on </title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Aug 2024 09:53:42 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autonomous Robot</title>
+      <link>http://localhost:1313/projects/enph253/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/projects/enph253/</guid>
+      <description>&lt;p&gt;• Led mechanical design within team of four, designed and fabricated self-driving all-terrain robot from scratch.&lt;/p&gt;&#xA;&lt;p&gt;• Designed steering geometry in CAD, designed and soldered IR amplifier/detector circuit for use with STM32.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Machine Learning Competition</title>
+      <link>http://localhost:1313/projects/enph353/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/projects/enph353/</guid>
+      <description>&lt;p&gt;• Implemented self-driving and image recognition of a simulated vehicle using OpenCV, PyTorch, Keras, TensorFlow, and ROS in Python, as well as Git and Gazebo on Linux, placing fourth out of eighteen teams.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

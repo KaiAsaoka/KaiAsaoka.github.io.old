@@ -1,0 +1,20 @@
+/* You can customize theme styles here */
+.header .navbar-brand span:first-child{
+    color: #a27eab;
+}
+.header .container{
+    padding-left: 10px;
+}
+
+html body ::selection{
+    background-color:#755985;color:#fff
+}
+
+a {
+    color: #755985;
+    background-color: transparent;
+}
+a:hover {
+    color: #442b63;
+}
+

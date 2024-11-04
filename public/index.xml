@@ -1,11 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title></title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2024 00:00:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quantum Communication Researcher Co-op</title>
+      <link>http://localhost:1313/experience/ntt/</link>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/ntt/</guid>
+      <description>&lt;h3 id=&#34;quantum-communication-researcher-co-op&#34;&gt;Quantum Communication Researcher (Co-op)&lt;/h3&gt;&#xA;&lt;p&gt;• Self-directed optical fiber-based three-photon quantum interference experiments to calculate HOM dip visibility and JSI purity, with the aim of increasing fidelity of time-bin entangled qubits in GHZ state.&lt;/p&gt;&#xA;&lt;p&gt;• Developed automated experimental procedures using self-written Python libraries using PyVISA and PySerial to shorten experiment run time from ~12 hours to ~2 hours by optimizing analysis and data collection processes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Industrial Engineering Co-op</title>
+      <link>http://localhost:1313/experience/viarail/</link>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/viarail/</guid>
+      <description>&lt;h3 id=&#34;capacitive-sensor-development-mentee&#34;&gt;Capacitive Sensor Development Mentee&lt;/h3&gt;&#xA;&lt;p&gt;• Designed and led implementation of seven projects using Kaizen, 5S, Six Sigma, Lean Manufacturing and Visual Management to improve average workplace task completion time by 10% in industrial facility.&lt;/p&gt;&#xA;&lt;p&gt;• Proposed projects and provided stakeholder consultation and technical documentation to upper management, communicated with suppliers to procure equipment, organized facility-wide initiatives to implement projects.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Capacitive Sensor Development Mentee</title>
+      <link>http://localhost:1313/experience/qmi/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/qmi/</guid>
+      <description>&lt;h3 id=&#34;capacitive-sensor-development-mentee&#34;&gt;Capacitive Sensor Development Mentee&lt;/h3&gt;&#xA;&lt;p&gt;• Designed and fabricated custom flexible capacitive sensor designed to detect proximity and pressure using AutoCAD and SolidWorks, tested using MATLAB and Arduino. Presented findings to non-technical audience.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/blog/my-first-post/</link>
+      <pubDate>Thu, 24 Oct 2024 22:30:55 +0900</pubDate>
+      <guid>http://localhost:1313/blog/my-first-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Autonomous Robot</title>
+      <link>http://localhost:1313/projects/enph253/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/projects/enph253/</guid>
+      <description>&lt;p&gt;• Led mechanical design within team of four, designed and fabricated self-driving all-terrain robot from scratch.&lt;/p&gt;&#xA;&lt;p&gt;• Designed steering geometry in CAD, designed and soldered IR amplifier/detector circuit for use with STM32.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Machine Learning Competition</title>
+      <link>http://localhost:1313/projects/enph353/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/projects/enph353/</guid>
+      <description>&lt;p&gt;• Implemented self-driving and image recognition of a simulated vehicle using OpenCV, PyTorch, Keras, TensorFlow, and ROS in Python, as well as Git and Gazebo on Linux, placing fourth out of eighteen teams.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

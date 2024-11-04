@@ -1,0 +1,136 @@
+# page title
+head:
+  title: "Kai's Personal Website"
+  description: "Personal website of Kai Asaoka"
+# showcase
+showcase:
+  enable: true
+  title: "Hi, I'm Kai Asaoka."
+  subtitle: "Welcome to my website!"
+  description: >
+    This is Kai Asaoka's personal website. <br /> Access my personal profile <a target='_blank' href='https://kaiasaoka.github.io/experience/'>here</a>. <br /> Access my blog, where I post about my personal interests <a target='_blank' href='https://kaiasaoka.github.io/blog'>here</a>.
+  image:
+    x: "images/showcase/showcase.png"
+    _2x: "images/showcase/showcase@2x.png"
+  imageMobile:
+    x: "images/showcase/showcase-mobile.jpg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "mailto:kaiasaoka@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/kaiasaoka/"
+
+    - icon: "github"
+      URL: "https://github.com/kaiasaoka"
+
+
+# about
+about:
+  enable: false
+  title: "Who am I?"
+  content: >
+    <p class="lead">
+      Here you can add some information about you. A small excerpt that describes 
+      your experience, for example.   
+      </p>
+      <p class="lead">
+      You explain something about your academic/study background, as well as your
+      preferred areas of work. Think of this area as context-setting for the experience
+      that you will describe below. Why did you change jobs? What drove you to take a 
+      new gig? Even if you are not looking for a job, it's a good way to hint about
+      what kind of projects you are interested in.
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/kaiasaoka/"
+  image:
+    x: "images/who-am-i/user-picture.png"
+    _2x: "images/who-am-i/user-picture@2x.png"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "University of British Columbia"
+      year: "2021-2026"
+      degree: "Bachelor of Applied Science (BASc), Engineering Physics"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: >
+    
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/kaiasaoka/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "https://github.com/KaiAsaoka/KaiAsaoka.github.io/blob/main/assets/files/KaiAsaokaResume%20-%20Controls.pdf"
+  button3:
+    icon: "icon-arrow-right"
+    btnText: "View All"
+    URL: "/experience"
+
+# Client & Work
+client_and_work:
+  title: "Clients & Works"
+  enable: true
+
+# testimonial
+testimonial:
+  enable: false
+  title: "Testimonials"
+  items:
+    - name: "Daniel Jordan"
+      position: "Phonet, CEO"
+      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+      image:
+        x: "images/testimonials/daniel-jordan.jpg"
+        _2x: "images/testimonials/daniel-jordan@2x.jpg"
+
+    - name: "Jonathan Peters"
+      position: "Textic, CEO"
+      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
+      image:
+        x: "images/testimonials/jonathan-peters.jpg"
+        _2x: "images/testimonials/jonathan-peters@2x.jpg"
+
+    - name: "Antonio Willis"
+      position: "Cyberse, CEO"
+      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
+      image:
+        x: "images/testimonials/antonio-willis.jpg"
+        _2x: "images/testimonials/antonio-willis@2x.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    action: "#"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  email:
+    title: "Email"
+    email: '<a href="mailto:kaiasaoka@gmail.com">kaiasaoka@gmail.com</a>'
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
